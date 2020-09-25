@@ -24,7 +24,7 @@ In addition, analysis should be performed using the human reference genome GRCh3
 ## Expected Analyses
 
 1. For both patients `jupyter` and `uranus`, map the sequencing reads, find the covered genomic regions and the corresponding genes.
-2. Using the method of your choice, find the large structural abberations that affect both patient genomes and report these findings in vcf files and by any mean you will judge appropriate for discussion with clinician.
+2. Using the method of your choice, find the **_large_** structural variations that affect both patient genomes and report these findings in vcf files and by any mean you will judge appropriate for discussion with clinician. Please do not focuse on single nucleotide variations or small indels.
 3. Comment on the implication of your findings : Diagnosis and Therapie.
 4. If the specific protocol used to analyse jupyter and uranus was planned to be extended to other patients diagnosed for the same , what would be your comments with regards to feasibility, accuracy and sensibility of the test.
 
@@ -35,3 +35,7 @@ FAIRness (Findable, Accessible, Reproducible, Reusable) of analyses are major cr
 Beyond your interpretations and conclusions, it is expected that any piece of your analysis is properly reported so that it can be repeated by a third party, to evaluate the strenght of interpretations and conclusions.
 
 You can use a branch of this repository, or a fork of this repository for your report. You are however free to use any method of your choice for your report.
+
+## Time limit
+
+You have a maximum amount of 3 working days (Monday, Tuesday, Wednesday, Thursday and Wednesday) to send you report by any available methode. Thus, for example, if you receveid the invitation on Saturday at 2 pm, you should send back your analysis not latter than Wednesday 2 pm. Whereas no reporting will we taken into account beyond this limit, partial report available before this limit will of course be carefully considered.
