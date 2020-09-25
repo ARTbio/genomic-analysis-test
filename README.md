@@ -11,13 +11,13 @@ Captured DNA was then subjected to illumina paired-end sequencing.
 ## input datasets
 They are available following these links:
 
-[Juliette_R1.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/F8GsBC53pK3pHnQ) | md5checksum 8da4b464897e3d528968300e55430760 | 230 Mb
+[Juliette_R1.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/F8GsBC53pK3pHnQ/download) | md5checksum 8da4b464897e3d528968300e55430760 | 230 Mb
 
-[Juliette_R2.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/EFfJ5pfHJYDCHBi) | md5checksum ba6c1610764607d99906d51c1bd682e0 | 285 Mb
+[Juliette_R2.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/EFfJ5pfHJYDCHBi/download) | md5checksum ba6c1610764607d99906d51c1bd682e0 | 285 Mb
  
-[Sacha_R1.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/EdtJTQZsaJPTnJ8) | md5checksum 694de5808f7046b57734253845a05b08 | 124 Mb
+[Sacha_R1.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/EdtJTQZsaJPTnJ8/download) | md5checksum 694de5808f7046b57734253845a05b08 | 124 Mb
 
-[Sacha_R2.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/bJCb27syGtnqbbJ) | md5checksum 631902f941fc7c0b3b8635a87c21758e | 140 Mb
+[Sacha_R2.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/bJCb27syGtnqbbJ/download) | md5checksum 631902f941fc7c0b3b8635a87c21758e | 140 Mb
 
 In addition, analysis should be performed using the human reference genome GRCh38/hg38
 
