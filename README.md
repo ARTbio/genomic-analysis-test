@@ -1,6 +1,4 @@
 # genomic-analysis-test
-Instructions for genomic analysis of patient data
-
 This repository contains instructions for a genomic analysis test.
 
 ## Context
