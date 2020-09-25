@@ -2,7 +2,7 @@
 This repository contains instructions for a genomic analysis test.
 
 ## Context
-2 patients, `jupyter` and `uranus` were diagnosed with a Chronic Myeloid Leukemia (CML).
+2 patients, `Juliette` and `Sacha` were diagnosed with a Chronic Myeloid Leukemia (CML).
 
 In addition to the standard cytogenetic and RT-PCR tests, Bone marrow samples obtained at diagnosis were used to prepare DNA from blastic cells, and this DNA was further enriched for sequences corresponding to 2 regions of chromosome 9 and chromosome 22, respectively, using Agilent capture probes.
 
