@@ -4,35 +4,35 @@ Instructions for genomic analysis of patient data
 This repository contains instructions for a genomic analysis test.
 
 ## Context
-2 patients, `jupyter` and `uranus` were diagnosed with an Acute Lymphoblastic Leukemia B (ALL-B).
+2 patients, `jupyter` and `uranus` were diagnosed with a Chronic Myeloid Leukemia (CML).
 
-In addition to the standard cytogenetic and RT-PCR tests, Bone marrow samples obtained at diagnosis were used to prepare DNA from blastic cells, and this DNA was further enriched for sequences corresponding 2 regions of chromosome 9 and chromosome 22, respectively, using a capture probes.
+In addition to the standard cytogenetic and RT-PCR tests, Bone marrow samples obtained at diagnosis were used to prepare DNA from blastic cells, and this DNA was further enriched for sequences corresponding to 2 regions of chromosome 9 and chromosome 22, respectively, using Agilent capture probes.
 
 Captured DNA was then subjected to illumina paired-end sequencing.
 
 ## input datasets
-They are available on a Google bucket:
+They are available following these links:
 
-[jupyter_R1.fastq.gz](https://storage.googleapis.com/artbio_genomic_analysis/jupyter_R1.fastq.gz)
+[Juliette_R1.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/F8GsBC53pK3pHnQ) | md5checksum 8da4b464897e3d528968300e55430760 | 230 Mb
 
-[jupyter_R2.fastq.gz](https://storage.googleapis.com/artbio_genomic_analysis/jupyter_R2.fastq.gz)
+[Juliette_R2.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/EFfJ5pfHJYDCHBi) | md5checksum ba6c1610764607d99906d51c1bd682e0 | 285 Mb
+ 
+[Sacha_R1.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/EdtJTQZsaJPTnJ8) | md5checksum 694de5808f7046b57734253845a05b08 | 124 Mb
 
-[uranus_R1.fastq.gz](https://storage.googleapis.com/artbio_genomic_analysis/uranus_R1.fastq.gz)
-
-[uranus_R2.fastq.gz](https://storage.googleapis.com/artbio_genomic_analysis/uranus_R2.fastq.gz)
+[Sacha_R2.fastq.gz](https://lbcd41.snv.jussieu.fr/nextcloud/index.php/s/bJCb27syGtnqbbJ) | md5checksum 631902f941fc7c0b3b8635a87c21758e | 140 Mb
 
 In addition, analysis should be performed using the human reference genome GRCh38/hg38
 
-## Expected results
+## Expected Analyses
 
 1. For both patients `jupyter` and `uranus`, map the sequencing reads, find the covered genomic regions and the corresponding genes.
-2. Using a method of your choice, find the large structural abberations that affect both patient genomes and report these findings in vcf files.
-3. Comment on the implication of your findings (prognosis, targeted treatment).
-4. If the specific protocol used to analyse jupyter and uranus was planned to be extended to other patients diagnosed for ALL-B, what would be your comments, suggestions, and critics, with regards to feasibility, accuracy and sensibility of the test.
+2. Using the method of your choice, find the large structural abberations that affect both patient genomes and report these findings in vcf files and by any mean you will judge appropriate for discussion with clinician.
+3. Comment on the implication of your findings : Diagnosis and Therapie.
+4. If the specific protocol used to analyse jupyter and uranus was planned to be extended to other patients diagnosed for the same , what would be your comments with regards to feasibility, accuracy and sensibility of the test.
 
 ## Reporting
 
-Reproducibility and transparency of analyses are major criteria for their quality and usability. Thus Reporting is part of the test !
+FAIRness (Findable, Accessible, Reproducible, Reusable) of analyses are major criteria of their quality. Thus your Reporting is part of the test !
 
 Beyond your interpretations and conclusions, it is expected that any piece of your analysis is properly reported so that it can be repeated by a third party, to evaluate the strenght of interpretations and conclusions.
 
