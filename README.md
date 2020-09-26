@@ -1,5 +1,5 @@
 # genomic-analysis-test
-This repository contains instructions for a genomic analysis test.
+This repository contains instructions for a genomic analysis test. Please read them entirely before starting.
 
 ## Context
 2 patients, `Juliette` and `Sacha` were diagnosed with a Chronic Myeloid Leukemia (CML).
