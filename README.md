@@ -40,6 +40,10 @@ You can use a branch of this repository, or a fork of this repository for your r
 
 You have a maximum amount of 3 working days (Monday, Tuesday, Wednesday, Thursday and Wednesday) to send you report by any available methode. Thus, for example, if you receveid the invitation on Saturday at 2 pm, you should send back your analysis not latter than Wednesday 2 pm. Whereas no reporting will we taken into account beyond this limit, partial report available before this limit will of course be carefully considered.
 
+## Support
+
+Computational infrastructure and tools useful for the requested analysis may be found at http://mississippi.sorbonne-universite.fr. Feel free to open a personal account in the Mississippi[2] server.
+
 ## Questions
 
 Any question should be raised exclusively using the [`Issues`](https://github.com/ARTbio/genomic-analysis-test/issues) fonctionnality of GitHub. No reponse regarding this test will be made by individual mailing.
