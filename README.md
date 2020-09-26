@@ -30,15 +30,16 @@ In addition, analysis should be performed using the human reference genome GRCh3
 
 ## Reporting
 
-FAIRness (Findable, Accessible, Reproducible, Reusable) of analyses are major criteria of their quality. Thus your Reporting is part of the test !
+FAIRness (Findable, Accessible, Reproducible, Reusable) of analyses are major criteria of their quality.
 
 Beyond your interpretations and conclusions, it is expected that any piece of your analysis is properly reported so that it can be repeated by a third party, to evaluate the strenght of interpretations and conclusions.
 
-You can use a branch of this repository, or a fork of this repository for your report. You are however free to use any method of your choice for your report.
+Your report has to be addressed to artbio@listes.upmc.fr, this is the only mandatory instruction.
+You are free to use any method of your choice to format this report (standalone document, archive, html link, web link, git repository, etc). However, be aware that the quality (FAIRness) of your reporting will be evaluated as a part of the test.
 
 ## Time limit
 
-You have a maximum amount of 3 working days (Monday, Tuesday, Wednesday, Thursday and Wednesday) to send you report by any available methode. Thus, for example, if you receveid the invitation on Saturday at 2 pm, you should send back your analysis not latter than Wednesday 2 pm. Whereas no reporting will we taken into account beyond this limit, partial report available before this limit will of course be carefully considered.
+You have a maximum amount of 3 working days (Monday, Tuesday, Wednesday, Thursday and Wednesday) to send you report by any available methode. Thus, for example, if you receveid the invitation on Saturday at 2 pm, you should send back your analysis not latter than Wednesday 2 pm. Whereas no reporting will we taken into account beyond this limit, partial report available before this limit will of course be considered.
 
 ## Support
 
@@ -46,4 +47,4 @@ Computational infrastructure and tools useful for the requested analysis may be 
 
 ## Questions
 
-Any question should be raised exclusively using the [`Issues`](https://github.com/ARTbio/genomic-analysis-test/issues) fonctionnality of GitHub. No reponse regarding this test will be made by individual mailing.
+Any question should be raised exclusively using the [`Issues`](https://github.com/ARTbio/genomic-analysis-test/issues) fonctionnality of GitHub. No response regarding this test will be made by individual e-mailing.
