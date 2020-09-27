@@ -23,10 +23,10 @@ In addition, analysis should be performed using the human reference genome GRCh3
 
 ## Expected Analyses
 
-1. For both patients `jupyter` and `uranus`, map the sequencing reads, find the covered genomic regions and the corresponding genes.
+1. For both patients `Juliette` and `Sacha`, map the sequencing reads, find the covered genomic regions and the corresponding genes.
 2. Using the method of your choice, find the **_large_** structural variations that affect both patient genomes and report these findings in vcf files and by any mean you will judge appropriate for discussion with clinician. Please do not focuse on single nucleotide variations or small indels.
 3. Comment on the implication of your findings : Diagnosis and Therapie.
-4. If the specific protocol used to analyse jupyter and uranus was planned to be extended to other patients diagnosed for the same , what would be your comments with regards to feasibility, accuracy and sensibility of the test.
+4. If the specific protocol used to analyse Juliette and Sacha genomic data was planned to be extended to other patients diagnosed for the same disease, what would be your comments with regards to feasibility, accuracy and sensibility of the test.
 
 ## Reporting
 
