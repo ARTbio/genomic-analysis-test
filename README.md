@@ -39,7 +39,7 @@ You are free to use any method of your choice to format this report (standalone 
 
 ## Time limit
 
-You have a maximum amount of 3 working days (Monday, Tuesday, Wednesday, Thursday and Wednesday) to send you report by any available methode. Thus, for example, if you receveid the invitation on Saturday at 2 pm, you should send back your analysis not latter than Wednesday 2 pm. Whereas no reporting will we taken into account beyond this limit, partial report available before this limit will of course be considered.
+You have a maximum amount of 4 working days (beginning at the time when the test invitation was sent by email) to send your report by any available methode. Whereas no reporting will we taken into account beyond this limit, any partial report available before this limit will of course be considered.
 
 ## Support
 
@@ -47,4 +47,5 @@ Computational infrastructure and tools useful for the requested analysis may be 
 
 ## Questions
 
-Any question should be raised exclusively using the [`Issues`](https://github.com/ARTbio/genomic-analysis-test/issues) fonctionnality of GitHub. No response regarding this test will be made by individual e-mailing.
+Any question should be raised exclusively using the [`Issues`](https://github.com/ARTbio/genomic-analysis-test/issues) fonctionnality of this respository GitHub. 
+For the sake of equality, no answer to questions regarding this test will be made by individual e-mailing.
